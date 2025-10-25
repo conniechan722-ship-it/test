@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="game">
+        <Key name="1">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="BOSSKILL">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="make">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="win">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="8">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="produce">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

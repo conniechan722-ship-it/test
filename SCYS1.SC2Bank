@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Check">
+        <Key name="Gt">
+            <Value string=""/>
+        </Key>
+        <Key name="CheckCode">
+            <Value string="6aMGf8UzG5hwGGGx8hhJ5Mn62"/>
+        </Key>
+    </Section>
+    <Section name="Main">
+        <Key name="Experience">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Gt">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="YaoSaiDJ">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Jyan">
+            <Value fixed="6546.7883"/>
+        </Key>
+        <Key name="PlayerName">
+            <Value text="挽星"/>
+        </Key>
+        <Key name="XinPian">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Exploit">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="Tips">
+        <Key name="Tip1">
+            <Value text="本存档已加入防篡改功能，私自修改存档将导致所有记录清零。"/>
+        </Key>
+    </Section>
+</Bank>
